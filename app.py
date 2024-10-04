@@ -14,7 +14,7 @@ class_names = ['Bacterial dermatosis', 'Fungal infections', 'Healthy', 'Hypersen
 model_paths = {
     'Logistic Regression': 'logistic_regression_model.pkl',
     'Random Forest': 'random_forest_model.pkl',
-    'SVM': 'svm_model.pkl'
+    # 'SVM': 'svm_model.pkl'
 }
 
 # Load the deep learning model (update this to your model path)
